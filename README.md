@@ -5,5 +5,5 @@
 
 #Salida producida:
 #1- Codebook.md
-#2- DatasetHumanActivityRecognitionUsingSmartphones.txt
+#2- tidyData.txt
 
